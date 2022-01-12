@@ -14,7 +14,8 @@ https://github.com/Fikhhz/project_uas_karyalogam.git
 - Database yang digunakan ```gas(1)```<br>
 ![image](https://user-images.githubusercontent.com/95403285/149064472-d84ea177-ba6e-4955-97f1-cdcb14e0dde5.png)
 
-Terdapat dua hak akses antara lain admin dan karyawan. Admin bisa melakukan akses kesemua menu, dan Karyawan hanya dapat melakukan menu transaksi
+Terdapat dua hak akses antara lain admin dan karyawan. Admin bisa melakukan akses kesemua menu, dan Karyawan hanya dapat melakukan menu transaksi<br>
+![image](https://user-images.githubusercontent.com/95403285/149065388-73f8502e-8808-4dfd-857b-daa1b1e59893.png)
 
 
 # Result Application
